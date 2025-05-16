@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Lenovo\OneDrive\Documents\Repos\lattice\main.cpp(135,35): warning C4553: '==': result of expression not used; did you intend '='?
+  lattice.vcxproj -> C:\Users\Lenovo\OneDrive\Documents\Repos\lattice\x64\Debug\lattice.exe
